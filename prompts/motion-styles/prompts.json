@@ -1,0 +1,105 @@
+{
+  "template": "Animate my logo in a {STYLE} style. The logo is the wordmark \"{LOGO}\". {DIRECTION} Write it as one self-contained index.html: a 720x720 stage, CSS and JavaScript inline, animated with GSAP from ./gsap.min.js (no other libraries, no network). Build one GSAP timeline, 4 seconds long, paused, and expose it as window.__tl so it can be rendered frame by frame: no requestAnimationFrame loops, no CSS animations, and if you need randomness use a seeded random. Every frame should look designed, and the logo must be clearly readable from 2.5 s to the end. Save it as index.html.",
+  "styles": [
+    {
+      "id": "particles",
+      "name": "particles",
+      "direction": "Hundreds of small particles swirl in from the edges and settle into the letterforms, with a soft glow and a few stray sparks still drifting at the end."
+    },
+    {
+      "id": "liquid-morph",
+      "name": "liquid morph",
+      "direction": "A glossy liquid blob stretches, splits and merges, then morphs into the letters with a gooey metaball look."
+    },
+    {
+      "id": "holographic",
+      "name": "holographic",
+      "direction": "Iridescent rainbow foil that shifts as a light sweep passes over it, on a dark background, with a faint scanline shimmer."
+    },
+    {
+      "id": "neon-glow",
+      "name": "neon glow",
+      "direction": "A neon sign on a dark brick-like wall: the tubes flicker on letter by letter, buzz once, then glow steady with a coloured halo."
+    },
+    {
+      "id": "wireframe-3d",
+      "name": "wireframe 3D",
+      "direction": "The letters are built as 3D wireframe outlines in perspective, rotating slowly into a front-facing view, with a vector-grid floor."
+    },
+    {
+      "id": "glassmorphism",
+      "name": "glassmorphism",
+      "direction": "Frosted glass cards with blur, soft borders and coloured blobs drifting behind them; the logo sits on the front card."
+    },
+    {
+      "id": "kinetic-type",
+      "name": "kinetic typography",
+      "direction": "Bold type that slams, stretches, stacks and repeats in rhythm before locking into the final wordmark."
+    },
+    {
+      "id": "isometric",
+      "name": "isometric",
+      "direction": "An isometric scene where the letters rise out of a platform as extruded blocks, with clean flat shading."
+    },
+    {
+      "id": "clay-3d",
+      "name": "clay 3D",
+      "direction": "Soft, rounded, matte clay letters with a playful squash-and-stretch bounce as they drop in, pastel colours, soft shadows."
+    },
+    {
+      "id": "ascii-art",
+      "name": "ASCII art",
+      "direction": "A terminal-style grid of monospace characters that scrambles, then resolves into the logo drawn in ASCII characters."
+    },
+    {
+      "id": "gradient-mesh",
+      "name": "gradient mesh",
+      "direction": "A slow, rich multicolour gradient mesh flowing in the background, with the logo cut out in clean white type."
+    },
+    {
+      "id": "comic-book",
+      "name": "comic book",
+      "direction": "Halftone dots, a bold black outline, a burst shape and a POW-style impact frame as the logo punches in."
+    },
+    {
+      "id": "split-flap",
+      "name": "split-flap",
+      "direction": "An airport split-flap board where each tile flips through characters until it lands on the logo, with a slight shadow on each flap."
+    },
+    {
+      "id": "retro-vhs",
+      "name": "retro VHS",
+      "direction": "A VHS tape look: tracking lines, colour bleed, chromatic aberration and a PLAY timestamp, the logo glitching into place."
+    },
+    {
+      "id": "halftone",
+      "name": "halftone",
+      "direction": "A two-colour halftone print look where dot sizes animate to reveal the logo, like a printed poster."
+    },
+    {
+      "id": "bauhaus",
+      "name": "Bauhaus",
+      "direction": "Primary-colour circles, squares and triangles slide, rotate and snap into a balanced Bauhaus composition around the logo."
+    },
+    {
+      "id": "pixel-art",
+      "name": "pixel art",
+      "direction": "Chunky 8-bit pixels that build the logo block by block on a small grid, with a retro game-style sparkle."
+    },
+    {
+      "id": "blueprint",
+      "name": "blueprint",
+      "direction": "A technical blueprint: white line drawing on blue paper, construction lines and dimension markers drawing the logo."
+    },
+    {
+      "id": "art-deco",
+      "name": "art deco",
+      "direction": "Gold and black art deco linework: symmetric fans, sunbursts and stepped frames drawing in around an elegant wordmark."
+    },
+    {
+      "id": "neo-brutalism",
+      "name": "neo-brutalism",
+      "direction": "Flat, loud colours, thick black borders, hard offset shadows and blocky cards that jolt into place around the logo."
+    }
+  ]
+}

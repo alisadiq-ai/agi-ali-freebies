@@ -14,6 +14,8 @@ Free Claude skills and prompts from my reels on [@agiwithali](https://www.instag
 | [claude-connectors](guides/claude-connectors/README.md) | 5 connectors that let Claude do the work instead of explaining it | CONNECT |
 | [weekend-builds](guides/weekend-builds/README.md) | 5 things to build inside Claude in one weekend, one prompt each | BUILD |
 | [faceless-channel](guides/faceless-channel/README.md) | Build a faceless "Every X explained" channel with Claude: the four prompts | FACELESS |
+| [reel-doctor](prompts/reel-doctor/README.md) | 5 prompts that make Claude diagnose your reels from your real Instagram, TikTok and YouTube numbers | DOCTOR |
+| [first-second-checklist](guides/first-second-checklist/README.md) | The 11 checks every reel should pass in its first second, and how to see your skip rate | CHECKLIST |
 
 ## How to use the skills
 

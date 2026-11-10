@@ -17,6 +17,8 @@ Free Claude skills and prompts from my reels on [@agiwithali](https://www.instag
 | [reel-doctor](prompts/reel-doctor/README.md) | 5 prompts that make Claude diagnose your reels from your real Instagram, TikTok and YouTube numbers | DOCTOR |
 | [first-second-checklist](guides/first-second-checklist/README.md) | The 11 checks every reel should pass in its first second, and how to see your skip rate | CHECKLIST |
 
+Came from [@agiguy.ai](https://www.instagram.com/agiguy.ai/)? Its freebies are in [agiguy.ai](agiguy.ai/README.md).
+
 ## How to use the skills
 
 A skill is a folder with a `SKILL.md` that teaches Claude a procedure. Once it's installed, just ask in plain words ("put my idea on trial", "Feynman: compound interest") and Claude follows it.

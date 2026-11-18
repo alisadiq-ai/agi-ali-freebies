@@ -16,6 +16,7 @@ Free Claude skills and prompts from my reels on [@agiwithali](https://www.instag
 | [faceless-channel](guides/faceless-channel/README.md) | Build a faceless "Every X explained" channel with Claude: the four prompts | FACELESS |
 | [reel-doctor](prompts/reel-doctor/README.md) | 5 prompts that make Claude diagnose your reels from your real Instagram, TikTok and YouTube numbers | DOCTOR |
 | [first-second-checklist](guides/first-second-checklist/README.md) | The 11 checks every reel should pass in its first second, and how to see your skip rate | CHECKLIST |
+| [blender-director](skills/blender-director/SKILL.md) | Make Claude direct a 3D episode in Blender: voices, lip sync, cameras that cut on words, dark "finished" lighting, wireframe reveals, render settings and sound that lands on the frame | DIRECTOR |
 
 Came from [@agiguy.ai](https://www.instagram.com/agiguy.ai/)? Its freebies are in [agiguy.ai](agiguy.ai/README.md).
 

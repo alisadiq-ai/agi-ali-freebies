@@ -12,6 +12,6 @@ Ideas, scripts, edits and numbers, all inside Claude. Each one is free (open sou
 | 6 | **HyperFrames** | Describe a video and get an MP4 with animated captions and motion graphics | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Apache-2.0. `claude plugin install hyperframes@hyperframes` |
 | 7 | **Kinocut** | "The best 45 seconds of this interview, as a captioned vertical short" | [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) | Apache-2.0. Runs on your machine; needs FFmpeg |
 | 8 | **FavStash Creator Skills** | Hand Claude a script, get a finished reel back: captions, 99 film looks, a 3D sitcom or a cartoon of you | [alisadiq-ai/favstash-ai-video-editing-skills](https://github.com/alisadiq-ai/favstash-ai-video-editing-skills) | Apache-2.0. Setup takes a while (FFmpeg, HyperFrames) |
-| 9 | **FavStash connector** | Save reels you like, ask Claude what's working, and post to Instagram, TikTok and YouTube from Claude | [favstash.app/start](https://www.favstash.app/start) | Free plan: 1 channel, 4 posts a month, no card |
+| 9 | **FavStash connector** | Save reels you like, ask Claude what's working, and post to Instagram, TikTok and YouTube from Claude | [favstash.app/start](https://www.favstash.app/start) | Free to start, no card |
 
 More every week on Instagram [@agiguy.ai](https://www.instagram.com/agiguy.ai/).

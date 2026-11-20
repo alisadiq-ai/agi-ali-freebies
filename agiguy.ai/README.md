@@ -14,5 +14,7 @@ Lists and links from the reels on [@agiguy.ai](https://www.instagram.com/agiguy.
 | [hired](hired/README.md) | 7 free Claude tools that fix your resume and applications (you still press submit) | HIRED |
 | [cert](cert/README.md) | 9 free AI courses with a free certificate or badge | CERT |
 | [plugs](plugs/README.md) | 9 free plugins and tools for Claude Code's worst habits | PLUGS |
+| [lang](lang/README.md) | 10 language codes that turn Claude into your language tutor, any language, one free skill | LANG |
+| [twins](twins/README.md) | 7 paid AI tools (Suno, ElevenLabs, Firefly, Descript, Perplexity, Bolt, Cursor) and the free twin for each | TWINS |
 
 More from [AGI with Ali](../README.md): free Claude skills, prompts and guides.

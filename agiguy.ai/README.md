@@ -12,5 +12,7 @@ Lists and links from the reels on [@agiguy.ai](https://www.instagram.com/agiguy.
 | [insta](insta/README.md) | 9 free Claude skills for Instagram: ideas, scripts, edits and numbers | INSTA |
 | [write](write/README.md) | 10 writing codes that make Claude stop sounding like AI, one free skill | WRITE |
 | [hired](hired/README.md) | 7 free Claude tools that fix your resume and applications (you still press submit) | HIRED |
+| [cert](cert/README.md) | 9 free AI courses with a free certificate or badge | CERT |
+| [plugs](plugs/README.md) | 9 free plugins and tools for Claude Code's worst habits | PLUGS |
 
 More from [AGI with Ali](../README.md): free Claude skills, prompts and guides.

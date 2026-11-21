@@ -16,5 +16,9 @@ Lists and links from the reels on [@agiguy.ai](https://www.instagram.com/agiguy.
 | [plugs](plugs/README.md) | 9 free plugins and tools for Claude Code's worst habits | PLUGS |
 | [lang](lang/README.md) | 10 language codes that turn Claude into your language tutor, any language, one free skill | LANG |
 | [twins](twins/README.md) | 7 paid AI tools (Suno, ElevenLabs, Firefly, Descript, Perplexity, Bolt, Cursor) and the free twin for each | TWINS |
+| [rank](rank/README.md) | 8 free Claude skills and plugins that help a small business show up on Google | RANK |
+| [hidden](hidden/README.md) | 9 Claude features most people never use, with where to click | HIDDEN |
+| [boss](boss/README.md) | 10 work codes that turn Claude into your chief of staff, one free skill | BOSS |
+| [kids](kids/README.md) | 10 homework codes for helping your child learn (hints, not answers), one free skill | KIDS |
 
 More from [AGI with Ali](../README.md): free Claude skills, prompts and guides.
